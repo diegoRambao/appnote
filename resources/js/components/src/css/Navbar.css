@@ -1,0 +1,19 @@
+.title {
+    font-weight: bold;
+}
+.button-fab {
+    outline: none;
+    background: #000 !important;
+}
+.icon-fab {
+    color: #fff;
+}
+.MuiListItem-button:hover {
+    background: rgba(0, 0, 0, 0) !important;
+}
+.MuiListItem-gutters {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    display: flex !important;
+    justify-content: center !important;
+}

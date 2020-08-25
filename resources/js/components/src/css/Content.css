@@ -1,0 +1,9 @@
+.title-content {
+    font-size: 60px;
+    font-weight: bolder;
+}
+.content-card {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+}
